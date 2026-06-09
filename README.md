@@ -185,8 +185,8 @@ AI Response
 
 Ankit Verma
 
-GitHub: CodingwithAnkit-tech
-B.Tech CSE Student
-Full Stack & AI/ML Enthusiast
+- GitHub: CodingwithAnkit-tech
+- B.Tech CSE Student
+- Data Analyst & AI/ML Enthusiast
 
 # ⭐ If you found this project useful, please consider giving it a star.
