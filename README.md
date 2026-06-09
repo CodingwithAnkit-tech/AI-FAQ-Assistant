@@ -6,7 +6,7 @@ and view stored conversation history.
 # 🚀 Live Demo
 Frontend (Vercel)
 
-ai-faq-assistant-mtxh07brs-ankit-vermas-projects-b6fa17d6.vercel.app
+[ai-faq-assistant-mtxh07brs-ankit-vermas-projects-b6fa17d6.vercel.app](https://ai-faq-assistant-mtxh07brs-ankit-vermas-projects-b6fa17d6.vercel.app/)
 
 # Backend (Render)
 
