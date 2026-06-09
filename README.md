@@ -171,15 +171,15 @@ AI Response
 
 
 # 🎯 Assignment Requirements Covered
-Requirement	Status
-Next.js Frontend	✅
-Node.js + Express Backend	✅
-MongoDB Integration	✅
-AI Model Integration	✅
-Store Conversations	✅
-Fetch Previous Conversations API	✅
-GitHub Repository	✅
-Deployment	✅
+- Requirement	Status
+- Next.js Frontend	✅
+- Node.js + Express Backend	✅
+- MongoDB Integration	✅
+- AI Model Integration	✅
+- Store Conversations	✅
+- Fetch Previous Conversations API	✅
+- GitHub Repository	✅
+- Deployment	✅
 
 # 👨‍💻 Author
 
