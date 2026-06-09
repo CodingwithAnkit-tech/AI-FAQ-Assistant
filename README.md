@@ -52,6 +52,8 @@ Vercel (Frontend)
 Render (Backend)
 
 # 📂 Project Structure
+# AI FAQ Assistant
+
 AI-FAQ-Assistant
 │
 ├── client
@@ -70,6 +72,7 @@ AI-FAQ-Assistant
 │   └── package.json
 │
 └── README.md
+
 
 # ⚙️ Installation & Setup
 - Clone Repository
