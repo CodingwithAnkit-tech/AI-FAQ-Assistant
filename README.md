@@ -161,8 +161,6 @@ MongoDB Atlas
 # 📸 Screenshots
 Home Page
 
-Add Screenshot Here
-
 AI Response
 
 <img width="1812" height="962" alt="image" src="https://github.com/user-attachments/assets/910e27db-87b0-46af-90c0-2605599ab8bd" />
